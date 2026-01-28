@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/niviii-08/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/niviii-08/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niviii-08/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0377-combination-sum-iv](https://github.com/niviii-08/leetcode/tree/master/0377-combination-sum-iv) |
 | [0704-binary-search](https://github.com/niviii-08/leetcode/tree/master/0704-binary-search) |
 | [1200-minimum-absolute-difference](https://github.com/niviii-08/leetcode/tree/master/1200-minimum-absolute-difference) |
 ## Binary Search
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/niviii-08/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0377-combination-sum-iv](https://github.com/niviii-08/leetcode/tree/master/0377-combination-sum-iv) |
 <!---LeetCode Topics End-->
