@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/niviii-08/leetcode/tree/master/0377-combination-sum-iv) |
 | [0496-next-greater-element-i](https://github.com/niviii-08/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/niviii-08/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/niviii-08/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/niviii-08/leetcode/tree/master/0704-binary-search) |
 | [1200-minimum-absolute-difference](https://github.com/niviii-08/leetcode/tree/master/1200-minimum-absolute-difference) |
 ## Binary Search
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/niviii-08/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/niviii-08/leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/niviii-08/leetcode/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/niviii-08/leetcode/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/niviii-08/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
