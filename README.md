@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/niviii-08/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/niviii-08/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/niviii-08/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/niviii-08/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,4 +101,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/niviii-08/leetcode/tree/master/0933-number-of-recent-calls) |
+## Math
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/niviii-08/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/niviii-08/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/niviii-08/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/niviii-08/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/niviii-08/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
