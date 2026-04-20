@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/niviii-08/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/niviii-08/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niviii-08/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/niviii-08/leetcode/tree/master/0169-majority-element) |
 | [0377-combination-sum-iv](https://github.com/niviii-08/leetcode/tree/master/0377-combination-sum-iv) |
 | [0496-next-greater-element-i](https://github.com/niviii-08/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/niviii-08/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -40,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/niviii-08/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/niviii-08/leetcode/tree/master/0169-majority-element) |
 | [1200-minimum-absolute-difference](https://github.com/niviii-08/leetcode/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/niviii-08/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/niviii-08/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/niviii-08/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/niviii-08/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/niviii-08/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
@@ -159,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/niviii-08/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/niviii-08/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/niviii-08/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
