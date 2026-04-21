@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/niviii-08/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/niviii-08/leetcode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/niviii-08/leetcode/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/niviii-08/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/niviii-08/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Data Stream
 |  |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/niviii-08/leetcode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/niviii-08/leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
