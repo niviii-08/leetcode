@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/niviii-08/leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/niviii-08/leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/niviii-08/leetcode/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/niviii-08/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/niviii-08/leetcode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/niviii-08/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/niviii-08/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niviii-08/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/niviii-08/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/niviii-08/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/niviii-08/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/niviii-08/leetcode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/niviii-08/leetcode/tree/master/0844-backspace-string-compare) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/niviii-08/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
