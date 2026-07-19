@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/niviii-08/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/niviii-08/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/niviii-08/leetcode/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/niviii-08/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/niviii-08/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/niviii-08/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/niviii-08/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/niviii-08/leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/niviii-08/leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/niviii-08/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niviii-08/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/niviii-08/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/niviii-08/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/niviii-08/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/niviii-08/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Divide and Conquer
