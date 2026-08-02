@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/niviii-08/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/niviii-08/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/niviii-08/leetcode/tree/master/0704-binary-search) |
+| [0821-shortest-distance-to-a-character](https://github.com/niviii-08/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1200-minimum-absolute-difference](https://github.com/niviii-08/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/niviii-08/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1672-richest-customer-wealth](https://github.com/niviii-08/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/niviii-08/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/niviii-08/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/niviii-08/leetcode/tree/master/0412-fizz-buzz) |
+| [0821-shortest-distance-to-a-character](https://github.com/niviii-08/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/niviii-08/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/niviii-08/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/niviii-08/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/niviii-08/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/niviii-08/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/niviii-08/leetcode/tree/master/0344-reverse-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/niviii-08/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/niviii-08/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/niviii-08/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/niviii-08/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
