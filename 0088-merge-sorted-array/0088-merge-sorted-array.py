@@ -10,21 +10,13 @@ class Solution(object):
         if not nums1 and nums2:
             return 0
         newbee=[]
-        i=0
-        j=0
-        while i<m and j<n:
-            if nums1[i]<nums2[j]:
+        k=0
+        for i in range(m):
                 newbee.append(nums1[i])
-                i+=1
-            else:
-                newbee.append(nums2[j])
-                j+=1
-        while i < m:
-            newbee.append(nums1[i])
-            i+=1
-        while j<n:
+                k+=1
+        for j in range(n):
             newbee.append(nums2[j])
-            j+=1
-        for k in range(m+n):
-            nums1[k]=newbee[k]
-        return nums1
+            k+=1
+        newbee.sort()
+        for i in range(k):
+            nums1[i]=newbee[i]
