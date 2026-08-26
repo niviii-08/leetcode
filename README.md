@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/niviii-08/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/niviii-08/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/niviii-08/leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/niviii-08/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/niviii-08/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/niviii-08/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/niviii-08/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/niviii-08/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/niviii-08/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/niviii-08/leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/niviii-08/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niviii-08/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/niviii-08/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/niviii-08/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
