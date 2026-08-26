@@ -17,6 +17,8 @@ class Solution(object):
         for j in range(n):
             newbee.append(nums2[j])
             k+=1
+        for l in range(k):
+            nums1[l]=newbee[l]
         newbee.sort()
         for i in range(k):
             nums1[i]=newbee[i]
