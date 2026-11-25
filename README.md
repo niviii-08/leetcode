@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/niviii-08/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/niviii-08/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/niviii-08/leetcode/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1646-get-maximum-in-generated-array](https://github.com/niviii-08/leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1672-richest-customer-wealth](https://github.com/niviii-08/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/niviii-08/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/niviii-08/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/niviii-08/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/niviii-08/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/niviii-08/leetcode/tree/master/0844-backspace-string-compare) |
+| [1646-get-maximum-in-generated-array](https://github.com/niviii-08/leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/niviii-08/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
