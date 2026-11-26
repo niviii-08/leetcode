@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/niviii-08/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/niviii-08/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/niviii-08/leetcode/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/niviii-08/leetcode/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/niviii-08/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/niviii-08/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/niviii-08/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/niviii-08/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/niviii-08/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/niviii-08/leetcode/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/niviii-08/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/niviii-08/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/niviii-08/leetcode/tree/master/0412-fizz-buzz) |
 | [0821-shortest-distance-to-a-character](https://github.com/niviii-08/leetcode/tree/master/0821-shortest-distance-to-a-character) |
