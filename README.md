@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/niviii-08/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/niviii-08/leetcode/tree/master/0704-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/niviii-08/leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0905-sort-array-by-parity](https://github.com/niviii-08/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/niviii-08/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/niviii-08/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/niviii-08/leetcode/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/niviii-08/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/niviii-08/leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/niviii-08/leetcode/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/niviii-08/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/niviii-08/leetcode/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/niviii-08/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/niviii-08/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/niviii-08/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/niviii-08/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/niviii-08/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Data Stream
 |  |
