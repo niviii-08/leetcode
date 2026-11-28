@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/niviii-08/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/niviii-08/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/niviii-08/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/niviii-08/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/niviii-08/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Trie
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/niviii-08/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/niviii-08/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/niviii-08/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1768-merge-strings-alternately](https://github.com/niviii-08/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/niviii-08/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Data Stream
 |  |
