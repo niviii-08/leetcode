@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/niviii-08/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/niviii-08/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/niviii-08/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/niviii-08/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/niviii-08/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/niviii-08/leetcode/tree/master/0704-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/niviii-08/leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/niviii-08/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/niviii-08/leetcode/tree/master/0085-maximal-rectangle) |
+| [0566-reshape-the-matrix](https://github.com/niviii-08/leetcode/tree/master/0566-reshape-the-matrix) |
 | [1672-richest-customer-wealth](https://github.com/niviii-08/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/niviii-08/leetcode/tree/master/0412-fizz-buzz) |
+| [0566-reshape-the-matrix](https://github.com/niviii-08/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/niviii-08/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/niviii-08/leetcode/tree/master/0844-backspace-string-compare) |
 | [1646-get-maximum-in-generated-array](https://github.com/niviii-08/leetcode/tree/master/1646-get-maximum-in-generated-array) |
